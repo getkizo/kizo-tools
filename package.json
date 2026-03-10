@@ -1,0 +1,7 @@
+{
+  "name": "@getkizo/kizo-tools",
+  "version": "0.0.1",
+  "description": "Developer tools, CLI, and scaffolding for the Kizo ecosystem",
+  "private": true,
+  "workspaces": ["tools/*"]
+}
