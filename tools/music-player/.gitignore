@@ -1,0 +1,10 @@
+music/
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+
+# Runtime config (seeded from .example by install.sh)
+server/config.json
+server/hours.json
